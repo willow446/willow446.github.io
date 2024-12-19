@@ -1,0 +1,94 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: PACKAGE VERSION\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2024-09-16 15:44-0400\n"
+"PO-Revision-Date: 2024-07-26 23:29-0400\n"
+"Last-Translator: Automatically generated\n"
+"Language-Team: none\n"
+"Language: fr\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Translate Toolkit 3.12.2\n"
+"Plural-Forms: nplurals=2; plural=(n > 1);\n"
+
+#: index.html%2Btitle:1-1
+msgid "Ceno Browser | Share the Web"
+msgstr ""
+
+#: index.html%2Bsection.div.div.div.div.img[alt]:8-11
+msgid "Ceno Browser banner"
+msgstr ""
+
+#: index.html%2Bsection.div.div.div.div.h1:13-11
+msgid "hello"
+msgstr ""
+
+#: index.html%2Bsection.div.div.div.div.p:14-11
+msgid ""
+"Ceno (short for censorship.no!) is the world’s first mobile browser that "
+"side-steps current Internet censorship methods. Its peer-to-peer backbone "
+"allows people to access and share web information in and across regions "
+"where connectivity has been interrupted or compromised."
+msgstr ""
+
+#: index.html%2Bsection.div.div.div.div.p.a.img[alt]:19-15
+msgid "Get it on Google Play"
+msgstr ""
+
+#: index.html%2Bsection.div.div.div.div.p.a.img[alt]:22-15
+msgid "Get it on F-droid"
+msgstr ""
+
+#: index.html%2Bsection.div.div.div.div.p.a.img[alt]:26-15
+msgid "Get it on Paskoocheh"
+msgstr ""
+
+#: index.html%2Bsection.div.div.div.div.div.img[alt]:44-13
+msgid "Browse Freely"
+msgstr ""
+
+#: index.html%2Bsection.div.div.div.div.div.h3:45-13
+msgid "Unlock the Web"
+msgstr ""
+
+#: index.html%2Bsection.div.div.div.div.div.p:46-13
+msgid ""
+"Access web content through a network of cooperating peers - even when the "
+"internet is down or censored. Install Ceno Browser today and be prepared for "
+"the next time you get 🔌 unplugged."
+msgstr ""
+
+#: index.html%2Bsection.div.div.div.div.div.img[alt]:54-13
+msgid "Grow the network - Become a bridge!"
+msgstr ""
+
+#: index.html%2Bsection.div.div.div.div.div.h3:56-13
+msgid "Grow the Network"
+msgstr ""
+
+#: index.html%2Bsection.div.div.div.div.div.p:57-13
+msgid ""
+"Fight censorship by becoming a bridge! Install and run Ceno Browser to "
+"instantly join the network and expand the availability of blocked websites "
+"to those in censored countries."
+msgstr ""
+
+#: index.html%2Bsection.div.div.div.div.div.img[alt]:65-13
+msgctxt "./index.html+section.div.div.div.div.div.img[alt]:65-13"
+msgid "Free and Open Source"
+msgstr ""
+
+#: index.html%2Bsection.div.div.div.div.div.h3:66-13
+msgctxt "./index.html+section.div.div.div.div.div.h3:66-13"
+msgid "Free and Open Source"
+msgstr ""
+
+#: index.html%2Bsection.div.div.div.div.div.p:67-13
+msgid ""
+"Ceno is based on <a href=\"https://mozac.org/\">Mozilla Android Components</"
+"a>, extended to make use of the <a href=\"https://gitlab.com/equalitie/"
+"ouinet\">Ouinet library</a> - enabling third party developers to incorporate "
+"the Ceno network into their apps for P2P connectivity."
+msgstr ""

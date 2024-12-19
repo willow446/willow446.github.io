@@ -1,0 +1,41 @@
+#. extracted from howcenoworks.txt
+msgid ""
+msgstr ""
+"Project-Id-Version: PACKAGE VERSION\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2021-06-01 11:32-0700\n"
+"PO-Revision-Date: 2022-01-22 02:54+0000\n"
+"Last-Translator: 刘韬 <lyuutau@outlook.com>\n"
+"Language-Team: Chinese (Simplified) <https://hosted.weblate.org/projects/"
+"censorship-no/howcenoworks/zh_Hans/>\n"
+"Language: zh_Hans\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+"X-Generator: Weblate 4.11-dev\n"
+
+#: howcenoworks.txt:2
+msgid "Most web traffic in countries that filter internet is routed through centralized exchanges.\n"
+msgstr ""
+
+#: howcenoworks.txt:4
+msgid "This design gives the censor an advantage in locating and blocking popular proxies, VPN servers, relays, etc.\n"
+msgstr ""
+
+#: howcenoworks.txt:6
+msgid "In these cases, reaching origin web servers is difficult or impossible, and your device will not be able to get that content.\n"
+msgstr ""
+
+#: howcenoworks.txt:8
+#, fuzzy
+msgid "CENO is a mobile web browser for storing and sharing web content anywhere.\n"
+msgstr "CENO 是一个移动网络浏览器，用于在任何地方存储和共享网络内容。\n"
+
+#: howcenoworks.txt:10
+msgid "CENO users create small-world networks to connect to each other, and thereafter to a bridge outside the censored zone.\n"
+msgstr ""
+
+#: howcenoworks.txt:11
+msgid "Once a website is accessed by a single CENO user, it is stored and shared inside the country peer-to-peer.\n"
+msgstr ""

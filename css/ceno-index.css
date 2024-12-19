@@ -1,0 +1,22 @@
+div .homepage-icon {
+    display: flex;
+    justify-content: center;
+}
+
+.google-play-badge, .paskoocheh-download-badge, .gitlab-badge {
+    width: 175px;
+    height: 67.7167px;
+    margin-left: -10px;
+    display: inline;
+}
+
+.row.homepage {
+    text-align: center;
+    margin-left: 10px;
+    margin-right: 10px;
+    display: flex;
+}
+
+.card.home {
+    display: inline;
+}

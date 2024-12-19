@@ -1,0 +1,77 @@
+#. extracted from beabridge.txt
+msgid ""
+msgstr ""
+"Project-Id-Version: PACKAGE VERSION\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2021-06-01 10:28-0700\n"
+"PO-Revision-Date: 2022-05-23 23:09+0000\n"
+"Last-Translator: Jenny Ryan <jenny@equalitie.org>\n"
+"Language-Team: Ukrainian <https://hosted.weblate.org/projects/censorship-no/"
+"beabridge/uk/>\n"
+"Language: uk\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=3; plural=n%10==1 && n%100!=11 ? 0 : n%10>=2 && n"
+"%10<=4 && (n%100<10 || n%100>=20) ? 1 : 2;\n"
+"X-Generator: Weblate 4.13-dev\n"
+
+#: beabridge.txt:2
+msgid "BECOME A BRIDGE﻿"
+msgstr "СТАНЬТЕ МОСТОМ"
+
+#: beabridge.txt:5
+msgid "Want to help grow the network?"
+msgstr "Хочете допомогти з розширенням мережі?"
+
+#: beabridge.txt:8
+msgid "Join the swarm!"
+msgstr "Долучайтеся до нас!"
+
+#: beabridge.txt:11
+msgid "﻿THE EASY WAY: ANDROID"
+msgstr "НАЙПРОСТІШЕ: ANDROID"
+
+#: beabridge.txt:14
+msgid "Run CENO Browser on your Android device, and/or a spare, always-on device."
+msgstr ""
+"Запустіть оглядач CENO на своєму пристрої Android та/або на запасному, "
+"постійно ввімкненому пристрої."
+
+#: beabridge.txt:17
+msgid "RUN THE CENO DOCKER CLIENT"
+msgstr "ЗАПУСТІТЬ DOCKER-КЛІЄНТ CENO"
+
+#: beabridge.txt:20
+msgid "Alternatively, with just one command you can set up a bridge on your computer or VPS."
+msgstr ""
+"Крім того, лише однією командою Ви можете налаштувати міст на своєму "
+"компʼютері або VPS."
+
+#: beabridge.txt:23
+msgid "OPEN A PORTAL TO THE INTERNET"
+msgstr "ВІДКРИЙТЕ ПОРТАЛ В ІНТЕРНЕТ"
+
+#: beabridge.txt:26
+msgid "Ensure UPnP is enabled on your router, or set up port forwarding."
+msgstr ""
+"Переконайтеся, що на Вашому маршрутизаторі ввімкнено UPnP або налаштуйте "
+"переадресацію портів."
+
+#: beabridge.txt:29
+msgid "TO SEE IF IT'S WORKING:"
+msgstr "ПЕРЕВІРТЕ, ЧИ ВСЕ ПРАЦЮЄ:"
+
+#: beabridge.txt:32
+msgid "Create and open a new Firefox Profile, and set the proxy to localhost, port 8077."
+msgstr ""
+"Створіть новий профіль Firefox та вкажіть як проксі-сервер – localhost і "
+"порт – 8077."
+
+#: beabridge.txt:35
+msgid "THANK YOU FOR JOINING THE SWARM!"
+msgstr "ДЯКУЄМО, ЩО ВИ З НАМИ!"
+
+#: beabridge.txt:37
+msgid "Install the CENO Web Extension and the provided certificate to test it out!"
+msgstr "Встановіть веб-розширення CENO та наданий сертифікат для тестування!"
